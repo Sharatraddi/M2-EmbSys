@@ -93,7 +93,7 @@
 
 ## The below is the picture of **Elevator**
 
-<img src="https://user-images.githubusercontent.com/46928815/154846452-1bb05198-fb57-49d7-a004-123d90f0cda6.png" width=50% height=50% >
+<img src="https://user-images.githubusercontent.com/46928815/154846452-1bb05198-fb57-49d7-a004-123d90f0cda6.png" width=50% height=75% >
 
  ### **Elevators or lifts, as they are commonly called, is a form of vertical transport used primarily to move between multiple floors found in high-rises and skyscrapers. These are used to transport both people and goods from one floor to another.**
  
