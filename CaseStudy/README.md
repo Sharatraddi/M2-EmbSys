@@ -41,7 +41,7 @@
 
 ## Motion Sensor
 
-### **This sensor is used to turn on the machine hands free, it can be quite useful when the person cooking are having their hands and cannot touch the chimney.**
+### **This sensor is used to turn on the machine hands free, it can be quite useful when the persons cooking are having their hands dirty and cannot touch the chimney.**
 
 ## Voltage Sensor
 
