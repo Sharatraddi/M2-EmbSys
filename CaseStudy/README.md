@@ -11,7 +11,7 @@
 
 ## The below is the block diagram of **Kitchen Chimney** and contains all the major components present in it
 
-<img src="https://user-images.githubusercontent.com/46928815/154842593-e729de7c-d04e-47ac-a142-dc4e07f08178.png" width=75% height=75% >
+<img src="https://user-images.githubusercontent.com/46928815/154844369-f08e63f1-c86e-44a4-b24f-f099193f5e22.png" width=75% height=75% >
 
 # Explanation of the components
 
