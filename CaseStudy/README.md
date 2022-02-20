@@ -37,7 +37,7 @@
 
 ## Temperature Sensor
 
-### **This is used to detect the temperature of the machine it its too high it can turn itself off till it gets back to normal temperature.**
+### **This is used to detect the temperature of the machine if its too high it can turn itself off till it gets back to normal temperature.**
 
 ## Motion Sensor
 
