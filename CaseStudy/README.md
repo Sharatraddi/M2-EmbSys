@@ -33,7 +33,7 @@
 
 ## Smoke Sensor
 
-### **This is used to detect the intensity of the someke and level up or down the machine accordingly.**
+### **This is used to detect the intensity of the smoke and level up or down the machine accordingly.**
 
 ## Temperature Sensor
 
