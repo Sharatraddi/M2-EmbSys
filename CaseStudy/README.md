@@ -176,23 +176,3 @@
 ### **This is the main carrier box for the people and goods to be carried.**
 
 #
-
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
