@@ -4,9 +4,14 @@
 
 ## Description 
 
-### **This project deals with controlling the *Traffic Lights and Boom Barrier on the roads Automatically* which will ensure the safety of the citizens, it will even have any interrupts to make sure that if any lanes have emergency vehicles that lane should be cleared on priority and also it will have a timer so that eveyday at desired time all traffic will be halted for some time in the evening so that school childern can pass to the other side of the road.** 
+### **This project deals with controlling the *Traffic Lights and Boom Barrier on the roads Automatically* which will ensure the safety of the citizens, it will even have any interrupts to make sure that if any lanes have emergency vehicles that lane should be cleared on priority and also it will have a timer so that eveyday at desired time all traffic will be halted for some time in the evening so that school children can pass to the other side of the road.** 
 
-## The below are some Pictures which depicts the things in the description
+<img src="https://user-images.githubusercontent.com/46928815/155202567-4026f11a-651a-4f5b-9f66-f75e07d79dd1.png" width=70% height=55% >
+
+
+
+
+
 
 
 
