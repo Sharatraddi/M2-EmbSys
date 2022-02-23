@@ -1,7 +1,7 @@
 # **Kitchen Chimney** 🍎
 
 
-# Introduction
+> # Introduction
 ## The below is the picture of Kitchen Chimney
 
 <img src="https://user-images.githubusercontent.com/46928815/154841899-188357ad-be36-458e-80c4-ebe94a1e9898.png" width=50% height=55% >
@@ -9,7 +9,15 @@
 ## **Description**
  ### **Chimneys are meant to expel hot exhaust gases from living spaces to outside, As the air passes through the machine it filters and absorbs heat and traps grease particles, keeping kitchen cool and free of odours.**
  
- # Requirements 
+ #
+ 
+ > # The System Development life cycle of Embedded System
+   # The V Model
+<img src="https://user-images.githubusercontent.com/46928815/155397318-b011348b-afdb-4d06-8f3d-190fdc91620a.png" width=100% height=100% >
+
+
+
+> # Requirements 
 
 ## High Level Requirements:-
 | ID | Description | Category |
@@ -27,8 +35,10 @@
 |LLR03|It shall detect the movement of the hands by using the motion sensor & use it to turn on the machine hands free|Technical|
 |LLR04|It shall detect the voltage that is generated form the solar panels and can send a signal for extra voltage form the AC mains if its less|Technical|
 
+#
 
 
+> # System Design
 ## The below is the block diagram of **Kitchen Chimney** and contains all the major components present in it
 
 <img src="https://user-images.githubusercontent.com/46928815/154844369-f08e63f1-c86e-44a4-b24f-f099193f5e22.png" width=75% height=75% > 
@@ -37,8 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/46928815/155355899-1a2ed033-f0f7-47ef-b84b-7dc990f261d0.png)
 
-
-# Explanation of the components
+## **Explanation of the components**
 
 ## Display
 
@@ -113,3 +122,8 @@
 ### **This is the 230V mains supply.**
 
 #
+
+> # Applications
+
+### **Chimneys are meant to expel hot exhaust gases from living spaces to outside.**
+### **Chimney absorbs heat, smoke, oil, and grease to make kitchen clean and odor-free.**
