@@ -1,16 +1,57 @@
 # Elevator 🔩
 
+> # Introduction
+
 ## The below is the picture of **Elevator**
 
-<img src="https://user-images.githubusercontent.com/46928815/154846452-1bb05198-fb57-49d7-a004-123d90f0cda6.png" width=50% height=75% >
+<img src="https://user-images.githubusercontent.com/46928815/154846452-1bb05198-fb57-49d7-a004-123d90f0cda6.png" width=40% height=50% >
 
- ### **Elevators or lifts, as they are commonly called, is a form of vertical transport used primarily to move between multiple floors found in high-rises and skyscrapers. These are used to transport both people and goods from one floor to another.**
- 
- ## The below is the block diagram of **Elevator Shaft** and contains all the major components present in it
- 
- <img src="https://user-images.githubusercontent.com/46928815/154847935-6bba8cdf-3bda-4c8a-ab8a-40994f492e7a.png" width=300% height=200% >
+## Description
+### **Elevators or lifts, as they are commonly called, is a form of vertical transport used primarily to move between multiple floors found in high-rises and skyscrapers. These are used to transport both people and goods from one floor to another.**
 
-# Explanation of the components
+#
+
+> # The System Development Life Cycle of Embedded System
+
+# The V Model
+ <img src="https://user-images.githubusercontent.com/46928815/155401062-8613c50a-c51f-4d5b-98bc-8785da1c0fca.png" width=100% height=100% >
+ 
+ > # Requirements
+ 
+ ## High Level Requirements
+| ID | Description | Category |
+| ----- | ----- | ------- |
+|HLR01|It shall be able to show necessary things on the Display |Technical|
+|HLR02|It shall be able to sense imputs provided by the user|Technical|
+|HLR03|It shall be able give acoustic feed back to the users via the speakers|Technical|
+|HLR04|It shall be able to control the elevator doors|Technical|
+|HLR05|It shall be able to control the lifting system|Technical|
+|HLR06|It shall be able to sense the position of the doors in each floor |Technical|
+|HLR07|It shall be able to sense any smoke in the elevator car |Technical|
+|HLR08|It shall be able activate the fire system in the car in case of fire|Technical|
+
+## Low Level Requirements
+| ID | Description | Category |
+| ----- | ----- | ------- |
+|LLR01|It shall show the directions in which the car is moving, the floor in which the car is, the selected floor by the user & show car overload status|Technical|
+|LLR02|It shall be able to register the inputs like the door open or close, emergency stop, floor selection, the direction provided by the user|Technical|
+|LLR03|It shall be able to announce the floor in which the car is & the sound of the alarm|Technical|
+|LLR04|It shall be able to conrol the elevator car doors at each level and act on the data provided|Technical|
+|LLR05|It shall be able control the speed of the induction motor via the motor driver and set the motion of the elevator car|Technical|
+|LLR06|It shall be able control the cars doors and act accordingly weather or not to open the door once the car reaches the floor|Technical|
+|LLR07|It shall be able to sense any smoke in the elevator car and send a signal to fire alaram system |Technical|
+|LLR08|It shall be able activate the fire system in the car by using the data form the smoke sensor in case of fire in the elevator car|Technical|
+
+> # System Design
+
+
+## The below is the block diagram of **Elevator Shaft** and contains all the major components present in it
+ 
+<img src="https://user-images.githubusercontent.com/46928815/154847935-6bba8cdf-3bda-4c8a-ab8a-40994f492e7a.png" width=300% height=200% >
+ 
+ ![Lift drawio](https://user-images.githubusercontent.com/46928815/155404790-8a580aa0-76d0-45b6-8087-f0ae1bb4dd11.png)
+ 
+ ## Explanation of the components
 
 ## Display
 
@@ -83,3 +124,10 @@
 ## Elevator Car
 
 ### **This is the main carrier box for the people and goods to be carried.**
+
+#
+
+> # Applications
+
+### **Elevators are used as a vertical transport move between multiple floors found in high-rises and skyscrapers.**
+### **These are used to transport both people and goods from one floor to another.**
