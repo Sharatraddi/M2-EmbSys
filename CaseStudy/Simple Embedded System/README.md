@@ -127,3 +127,5 @@
 
 ### **Chimneys are meant to expel hot exhaust gases from living spaces to outside.**
 ### **Chimney absorbs heat, smoke, oil, and grease to make kitchen clean and odor-free.**
+
+#
