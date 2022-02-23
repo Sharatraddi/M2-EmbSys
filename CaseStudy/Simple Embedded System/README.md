@@ -1,15 +1,42 @@
 # **Kitchen Chimney** 🍎
 
+
+# Introduction
 ## The below is the picture of Kitchen Chimney
 
 <img src="https://user-images.githubusercontent.com/46928815/154841899-188357ad-be36-458e-80c4-ebe94a1e9898.png" width=50% height=55% >
 
+## **Description**
  ### **Chimneys are meant to expel hot exhaust gases from living spaces to outside, As the air passes through the machine it filters and absorbs heat and traps grease particles, keeping kitchen cool and free of odours.**
+ 
+ # Requirements 
+
+## High Level Requirements:-
+| ID | Description | Category |
+| ----- | ----- | ------- |
+|HLR01|It shall be able to sense the amount of somke in the working area|Technical|
+|HLR02|It shall be able to sense the temperature of the working area|Technical|
+|HLR03|It shall be able to detect the motion of the hand to operate it hands free|Technical|
+|HLR04|It shall be able to calculate the difference in the voltage required by it when using solar panels|Technical|
+
+## Low Level Requirements:-
+| ID | Description | Category |
+| ----- | ----- | ------- |
+|LLR01|It shall detect the intensity of the smoke and level up or down the machine accordingly|Technical|
+|LLR02|It shall detect the temperature of the machine if its too high it can turn itself off till it gets back to normal temperature|Technical|
+|LLR03|It shall detect the movement of the hands by using the motion sensor & use it to turn on the machine hands free|Technical|
+|LLR04|It shall detect the voltage that is generated form the solar panels and can send a signal for extra voltage form the AC mains if its less|Technical|
+
 
 
 ## The below is the block diagram of **Kitchen Chimney** and contains all the major components present in it
 
-<img src="https://user-images.githubusercontent.com/46928815/154844369-f08e63f1-c86e-44a4-b24f-f099193f5e22.png" width=75% height=75% >
+<img src="https://user-images.githubusercontent.com/46928815/154844369-f08e63f1-c86e-44a4-b24f-f099193f5e22.png" width=75% height=75% > 
+
+#
+
+![image](https://user-images.githubusercontent.com/46928815/155355899-1a2ed033-f0f7-47ef-b84b-7dc990f261d0.png)
+
 
 # Explanation of the components
 
