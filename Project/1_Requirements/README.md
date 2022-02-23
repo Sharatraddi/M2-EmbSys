@@ -1,6 +1,4 @@
-# Requirements
-
-# Automatic Traffic Lights and Boom Barrier Controller
+# Automatic Boom Barrier and Traffic Lights Controller
 
 ## Description 
 
