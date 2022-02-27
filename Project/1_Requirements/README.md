@@ -8,7 +8,7 @@
 
 ### **It will have a system in place to fine any vehicles which are not following rules of the roads by directly debiting the fine from the user's FASTag**
 
-### **And finally it will have a timer so that eveyday at desired time all traffic will be halted for some time in the evening so that school children can pass to the other side of the road and also it can control the pedestrian gates.**
+### **And finally it will have a timer so that eveyday at desired time all traffic will be halted for some time in the evening so that school children can pass to the other side of the road and also it can control the prdestrian gates.**
 
 
 <img src="https://user-images.githubusercontent.com/46928815/155202567-4026f11a-651a-4f5b-9f66-f75e07d79dd1.png" width=70% height=55% >
@@ -34,5 +34,10 @@
 |LLR04|It shall control the pedestrian gate when there is a signal for people to cross the road|Technical|
 |LLR05|It shall be coded to display desierd content on the displays like the directions of the roads and advertisements|Technical|
 |LLR06|It shall control the street lights based on the time of the day|Technical|
+
+<img src="https://user-images.githubusercontent.com/46928815/155885301-0528e9d2-62d0-46b7-9473-c836dfb15981.png" width=100% height=100% >
+
+
+
 
 
