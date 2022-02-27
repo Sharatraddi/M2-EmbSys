@@ -35,7 +35,11 @@
 |LLR05|It shall be coded to display desierd content on the displays like the directions of the roads and advertisements|Technical|
 |LLR06|It shall control the street lights based on the time of the day|Technical|
 
-<img src="https://user-images.githubusercontent.com/46928815/155885301-0528e9d2-62d0-46b7-9473-c836dfb15981.png" width=100% height=100% >
+# SWOT Analysis
+
+<img src="https://user-images.githubusercontent.com/46928815/155888484-9d24a394-d7fd-4a6a-a90c-a24998983ab3.png" width=100% height=100% >
+
+# 5W's & 1H
 
 <img src="https://user-images.githubusercontent.com/46928815/155886612-75f0e8b4-30ad-4119-b49c-4daefa17dcd3.png" width=100% height=100% >
 
