@@ -2,8 +2,6 @@
 
 ## This folder contains all the details of the project in Module - 2
 
-# Report
-
 # Automatic Boom Barrier and Traffic Lights Controller
 
 ## **Description**
