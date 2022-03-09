@@ -22,18 +22,18 @@ Folder Project->| Description
 # Project Simulation
 ![Screenshot 2022-03-09 140715](https://user-images.githubusercontent.com/46928815/157403928-d936598f-4bb0-4d31-8508-58e3c8dc2dbe.png)
 
-# Speed Fine
+# GIF Explaining Speed Fine functionality
 ![speedfine](https://user-images.githubusercontent.com/46928815/157418218-c8eb40dd-c0fe-4533-b11d-992e358e2a01.gif) 
 
 ### Here if the vehicles are below the speed range of 50 KM's/HR all the speeding fine LED's are off else if the speed range is greater than 50KM's/HR the speeding fine LED's are off
 
 
-# Zebra Crossing Fine
+# GIF Explaining Zebra Crossing Fine functionality
 ![Animationzebra](https://user-images.githubusercontent.com/46928815/157416605-5af906bf-66fc-4837-890c-8ff9dd5f7520.gif)
 
 ### Here if the vehicle distance w.r.t to zebra corssing is greater than 300 meters i.e if the vehicles are 300 meters w.r.t to the ultrasonic sensor then the vehicle is not no zebra corssing all the Corssing fine LED's are off or else if the distance is less than 300 meters w.r.t to the ultrrasonice sensor then the vehicle is on zebra crossing hence crossing fine LED's are on.
 
-# Traffic lights & boom barrier
+# GIF Explaining Traffic lights & boom barrier functionality
 ![Animation](https://user-images.githubusercontent.com/46928815/157388104-1c0085b0-3cb9-4782-8f16-cf5e052e3744.gif)
 
 ### Here the operations are 
