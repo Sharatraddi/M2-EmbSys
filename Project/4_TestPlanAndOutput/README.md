@@ -40,6 +40,8 @@
 ![image](https://user-images.githubusercontent.com/46928815/157358986-a7a49387-6e23-485a-839b-fa7969cbcd74.png)
 ### As we can see in the potentiometer properties the value of current resistance is 51 i.e the vehicles are above the speed range of 50 KM's/HR all the speeding fine LED's are on
 ### Note: the values can change in individual lanes as well
+# Speed Fine GIF
+![speedfine](https://user-images.githubusercontent.com/46928815/157418218-c8eb40dd-c0fe-4533-b11d-992e358e2a01.gif) 
 
 ## Crossing the zebra crossing output
 
@@ -51,7 +53,10 @@
 ![image](https://user-images.githubusercontent.com/46928815/157356816-beed0e3c-0b9f-4f9d-aec0-a66d69acf63d.png)
 ### As we can see Vehicle distance w.r.t to sensor is less than 300 meters i.e if the vehicles are below 300 meters w.r.t to the ultrasonic sensor then the vehicle is on the zebra corssing all the Corssing fine LED's are on
 ![image](https://user-images.githubusercontent.com/46928815/157357011-bc8ee646-7d1d-4d28-809d-131d0fcefb87.png)
-### And also there is comment saying no fine
+### And also there is comment saying no fine 
+
+# Zebra Crossing Fine
+![Animationzebra](https://user-images.githubusercontent.com/46928815/157416605-5af906bf-66fc-4837-890c-8ff9dd5f7520.gif)
 
 ## Traffic operations as per the code
 ![Animation](https://user-images.githubusercontent.com/46928815/157388104-1c0085b0-3cb9-4782-8f16-cf5e052e3744.gif)
