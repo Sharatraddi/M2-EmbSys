@@ -23,13 +23,25 @@ Folder Project->| Description
 ![Screenshot 2022-03-09 140715](https://user-images.githubusercontent.com/46928815/157403928-d936598f-4bb0-4d31-8508-58e3c8dc2dbe.png)
 
 # Speed Fine
-![Animationzebra](https://user-images.githubusercontent.com/46928815/157416263-94ac9665-4a8f-4b30-aa82-f5a2fd9f66be.gif)
+![speedfine](https://user-images.githubusercontent.com/46928815/157418218-c8eb40dd-c0fe-4533-b11d-992e358e2a01.gif) 
 
-# Zebracrossing Fine
+### Here if the vehicles are below the speed range of 50 KM's/HR all the speeding fine LED's are off else if the speed range is greater than 50KM's/HR the speeding fine LED's are off
+
+
+# Zebra Crossing Fine
 ![Animationzebra](https://user-images.githubusercontent.com/46928815/157416605-5af906bf-66fc-4837-890c-8ff9dd5f7520.gif)
+
+### Here if the vehicle distance w.r.t to zebra corssing is greater than 300 meters i.e if the vehicles are 300 meters w.r.t to the ultrasonic sensor then the vehicle is not no zebra corssing all the Corssing fine LED's are off or else if the distance is less than 300 meters w.r.t to the ultrrasonice sensor then the vehicle is on zebra crossing hence crossing fine LED's are on.
 
 # Traffic lights & boom barrier
 ![Animation](https://user-images.githubusercontent.com/46928815/157388104-1c0085b0-3cb9-4782-8f16-cf5e052e3744.gif)
+
+### Here the operations are 
+* Hault the traffic initially and open all the pedestrain gates for people to pass
+* All the lanes become red and the lane traffic starts with lane 1 red is turned off yellow is on then yellow is off green is on and the boom barrier of lane 1 opens and after some delay yellow is on green is off and yellow is off and red is on and the boom barrier of lane 1 closes
+* For the 2nd lane red is turned off yellow is on then yellow is off green is on and the boom barrier of lane 2 opens after some delay yellow is on green is off and yellow is off and red is on and the boom barrier of lane 2 closes
+* For the 3rd lane red is turned off yellow is on then yellow is off green is on and the boom barrier of lane 3 opens after some delay yellow is on green is off and yellow is off and red is on and the boom barrier of lane 3 closes
+* And for the 4th lane red is turned off yellow is on then yellow is off green is on and the boom barrier of lane 4 opens after some delay yellow is on green is off and yellow is off and red is on and the boom barrier of lane 4 closes
 
 
 
