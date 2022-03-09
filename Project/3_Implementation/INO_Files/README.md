@@ -1,1 +1,1 @@
-# This folder contains .ino files of the codes
+# This folder contains .ino files of all the three functionalities.
