@@ -2,7 +2,7 @@
 
 ## The below is the block diagram of **The Project** and contains all the major components present in it
 
-<img src="https://user-images.githubusercontent.com/46928815/157365084-79e48e44-4832-48de-8b4f-b424419d620c.png" width=100% height=100% >
+<img src="https://user-images.githubusercontent.com/46928815/157376998-feada29a-1bf2-42b9-92a8-c959eaf8c0ef.png" width=100% height=100% >
 
 # Explanation of the components
 
@@ -50,4 +50,11 @@
 
 ### **This is used to display the descriptions of the roads**
 
+# Architecture
+## UML Diagram
+![UML Diagram](https://user-images.githubusercontent.com/46928815/157377725-1da6bfd6-a9c0-479f-bfa2-a14c489a83ab.png)
+## Use case diagram
+![Use case diagram](https://user-images.githubusercontent.com/46928815/157377755-967c4d78-22a1-4af1-9b3b-14d1b801fbe6.png)
+## Flow Chart
+![Flow chart](https://user-images.githubusercontent.com/46928815/157377774-5c611a23-6243-43d1-943d-f4ed32d23063.png)
 
