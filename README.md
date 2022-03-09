@@ -22,5 +22,17 @@ Folder Project->| Description
 # Project Simulation
 ![Screenshot 2022-03-09 140715](https://user-images.githubusercontent.com/46928815/157403928-d936598f-4bb0-4d31-8508-58e3c8dc2dbe.png)
 
+# Speed Fine
+![Animationzebra](https://user-images.githubusercontent.com/46928815/157416263-94ac9665-4a8f-4b30-aa82-f5a2fd9f66be.gif)
+
+# Zebracrossing Fine
+![Animationzebra](https://user-images.githubusercontent.com/46928815/157416605-5af906bf-66fc-4837-890c-8ff9dd5f7520.gif)
+
+# Traffic lights & boom barrier
+![Animation](https://user-images.githubusercontent.com/46928815/157388104-1c0085b0-3cb9-4782-8f16-cf5e052e3744.gif)
+
+
+
+
 
 
