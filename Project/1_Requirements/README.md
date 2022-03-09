@@ -46,7 +46,7 @@
 |LLR03|It shall detect any vehicles on the zebra crossing via the ultra sonic sensor|Technical|
 |LLR04|It shall control the pedestrian gate when there is a signal for people to cross the road|Technical|
 |LLR05|It shall be coded to display desierd content on the displays like the vechile distance from the zebra crossing and comments |Technical|
-|HLR06|It shall be able to fine the vehicles who are not following the rules of the road i.e over speeding & crossing over the zebra crossing simulated via turning on LED's|Technical|
+|LLR06|It shall be able to fine the vehicles who are not following the rules of the road i.e over speeding & crossing over the zebra crossing simulated via turning on LED's|Technical|
 
 
 
