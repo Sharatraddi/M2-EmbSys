@@ -2,7 +2,7 @@
 
 ## The below is the block diagram of **The Project** and contains all the major components present in it
 
-<img src="https://user-images.githubusercontent.com/46928815/155212628-88966365-bf8b-40c3-a6b4-f44e38890179.png" width=100% height=100% >
+<img src="https://user-images.githubusercontent.com/46928815/157365084-79e48e44-4832-48de-8b4f-b424419d620c.png" width=100% height=100% >
 
 # Explanation of the components
 
@@ -26,13 +26,9 @@
 
 ### **This is a measurement device which provide precise distance measurement of the vehicles using ultrasonic wave. This sensor has transmitter which transmit ultrasonic waves. When waves hitting an vehicle, part of their energy reflected back to receiver of the sensor as echo signal, from this distance to the vehicle can be calculated trough the speed of the ultrasonic waves**
 
-## Special Photo Sensor
+## Potentiometer
 
-### **This is used to pick up special patterns of frequencies of light that has been coded into the emergency vehichles which emit them onto this sensors which will help then decide to clear the traffic on that lane on priority .**
-
-## RIFD Sensor
-
-### **This sensor is used to fine the user who is speeding on the road above the set speed, this will scan the FASTag of the user speeding up and fines him/her and directly cuts the amount form the tag.**
+### **A potentiometer is a type of position sensor. They are used to measure displacement in any direction in this project they are used to simulate speeding and approaching vehicles**
 
 ## Clock
 
@@ -52,17 +48,6 @@
 
 ## Display
 
-### **This is used to display the descriptions of the roads and even advertisements.**
+### **This is used to display the descriptions of the roads**
 
-## Street lights
-
-### **These lights can be interfaced with the control system so that they an be controlled accordingly.**
-
-## Speakers
-
-### **This is used to announce any necessary things.**
-
-## Total System Bypass
-
-### **This is essentially a bypass switch to take over the control of the system mannually.**
 
