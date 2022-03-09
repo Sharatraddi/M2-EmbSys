@@ -2,7 +2,7 @@
 
 ## The below is the block diagram of **The Project** and contains all the major components present in it
 
-<img src="https://user-images.githubusercontent.com/46928815/157376998-feada29a-1bf2-42b9-92a8-c959eaf8c0ef.png" width=100% height=100% >
+<img src="https://user-images.githubusercontent.com/46928815/157380622-7744e535-6d7d-40e5-9141-8b713dfc9453.png" width=100% height=100% >
 
 # Explanation of the components
 
