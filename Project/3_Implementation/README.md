@@ -22,3 +22,4 @@
     * For the 2nd lane red is turned off yellow is on then yellow is off green is on and the boom barrier of lane 2 opens after some delay yellow is on green is off and yellow is       off and red is on and the boom barrier of lane 2 closes
     * For the 3rd lane red is turned off yellow is on then yellow is off green is on and the boom barrier of lane 3 opens after some delay yellow is on green is off and yellow is      off and red is on and the boom barrier of lane 3 closes
     * And for the 4th lane red is turned off yellow is on then yellow is off green is on and the boom barrier of lane 4 opens after some delay yellow is on green is off and yellow       is off and red is on and the boom barrier of lane 4 closes
+
