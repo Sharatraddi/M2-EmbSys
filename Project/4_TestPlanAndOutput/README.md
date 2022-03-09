@@ -54,8 +54,7 @@
 ### And also there is comment saying no fine
 
 ## Traffic operations as per the code
-![Animation](https://user-images.githubusercontent.com/46928815/157367893-02ea0be9-cfe7-447c-adca-71ea622a1134.gif)
-
+![Animation](https://user-images.githubusercontent.com/46928815/157388104-1c0085b0-3cb9-4782-8f16-cf5e052e3744.gif)
 ### Operations are
 1. Hault the traffic initially and open all the pedestrain gates for people to pass
 2. All the lanes become red and the lane traffic starts with lane 1 red is turned off yellow is on then yellow is off green is on and the boom barrier of lane 1 opens and after some delay yellow is on green is off and yellow is off and red is on and the boom barrier of lane 1 closes
